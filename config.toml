@@ -1,7 +1,7 @@
-baseURL = 'https://bio.petanikode.com/'
+baseURL = 'https://bio.mydoula.uk/'
 languageCode = 'en-us'
-title = 'Petani Kode - Links in Bio'
+title = 'MyDoulaUK - Links in Bio'
 
 [params]
-avatar = "/img/avatar.svg"
-username = "@petanikode"
+avatar = "/img/logo.png"
+username = "@mydoulauk"
